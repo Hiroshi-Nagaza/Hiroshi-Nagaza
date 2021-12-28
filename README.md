@@ -9,7 +9,7 @@
 
 - Instagram: https://instagram.com/hiroshinagaza
 
-![Snake animation](https://github.com/Hiroshi-Nagaza/Hiroshi-Nagaza/blob/output/github-contribution-grid-snake.svg)
+![image](https://user-images.githubusercontent.com/65690902/147534531-0d1b90bf-61fe-4e8e-b704-8fd7b26f0cdf.png)
 
 <div>
 <a href="https://github.com/Hiroshi-Nagaza">
