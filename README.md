@@ -9,8 +9,11 @@
 
 - Instagram: https://instagram.com/hiroshinagaza
 
-![image](https://user-images.githubusercontent.com/65690902/147533907-0232505b-eab5-4950-a2f8-24230d1cd068.png)
-
+<div>
+<a href="https://github.com/Hiroshi-Nagaza">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <!---
 Hiroshi-Nagaza/Hiroshi-Nagaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
