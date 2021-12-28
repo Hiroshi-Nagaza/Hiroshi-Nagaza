@@ -9,6 +9,8 @@
 
 - Instagram: https://instagram.com/hiroshinagaza
 
+![Snake animation](https://github.com/Hiroshi-Nagaza/Hiroshi-Nagaza/blob/output/github-contribution-grid-snake.svg)
+
 <div>
 <a href="https://github.com/Hiroshi-Nagaza">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroshi-Nagaza&layout=compact&langs_count=7&theme=dracula"/>
