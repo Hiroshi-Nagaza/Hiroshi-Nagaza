@@ -1,8 +1,8 @@
-🌃 Pedreiras - MA | 18ya,
-📖 Programaçao e Gestão Pública,
-❤ vs lethycia,
-🌐 Capitalista,
-💼 https://discord.gg/bgocity.
+- 🌃 Pedreiras - MA | 18ya,
+- 📖 Programaçao e Gestão Pública,
+- ❤ vs lethycia,
+- 🌐 Capitalista,
+- 💼 https://discord.gg/bgocity.
 
 - Instagram: https://instagram.com/hiroshinagaza
 
