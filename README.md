@@ -3,10 +3,9 @@
 
 - 🌃 Pedreiras - MA | 18ya,
 - 📖 Programming and Public Management,
-- ❤ vs lethycia,
 - 🌐 Capitalist,
 - 💼 https://discord.gg/bgocity.
-- Instagram: https://instagram.com/hiroshinagaza
+- 📸 https://instagram.com/hiroshinagaza
 #
 <div align="center">
   <a href="https://github.com/Hiroshi-Nagaza">
