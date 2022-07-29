@@ -4,7 +4,7 @@
 - 🌃 Pedreiras - MA | 18ya,
 - 📖 Programming and Public Management,
 - 🌐 Capitalist,
-- 💼 https://discord.gg/bgocity.
+- 💼 https://discord.gg/amazingstore.
 - 📸 https://instagram.com/hiroshinagaza
 #
 <div align="center">
