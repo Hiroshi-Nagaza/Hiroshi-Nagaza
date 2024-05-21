@@ -3,7 +3,7 @@
 
 - 🌃 Pedreiras - MA | 18ya,
 - 📖 Programming and Public Management,
-- 🌐 Capitalist,
+- 🌐 Businessman and liberal politician,
 - 💼 https://discord.gg/amazingstore.
 - 📸 https://instagram.com/hiroshinagaza
 #
