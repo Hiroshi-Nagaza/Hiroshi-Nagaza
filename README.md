@@ -1,11 +1,13 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Victor Gabriel and my nickname is "Hiroshi Nagaza"!
 
-- 🌃 Pedreiras - MA | 18ya,
+- 🌃 Pedreiras - MA | 20ya,
 - 📖 Programming and Public Management,
 - 🌐 Businessman and liberal politician,
-- 💼 https://discord.gg/amazingstore.
-- 📸 https://instagram.com/hiroshinagaza
+- 💼 https://linktr.ee/amazingventures,
+- 📸 https://instagram.com/spvictorgabriel.
+  
+---
 #
 <div align="center">
   <a href="https://github.com/vshiroshi">
