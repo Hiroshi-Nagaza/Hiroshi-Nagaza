@@ -1,5 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Victor Gabriel and my nickname is "Hiroshi Nagaza"!
+### My name is Victor Pereira and my nickname is "Hiroshi"!
 
 - 🌃 Pedreiras - MA | 20ya,
 - 📖 Programming and Public Management,
